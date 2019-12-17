@@ -1,5 +1,5 @@
-#ifndef KNN_H
-#define KNN_H
+#ifndef KNNRING_H
+#define KNNRING_H
 
 typedef struct knnresult
 {int* nidx;//!< Indices (0-based) of nearest neighbors [m-by-k]
