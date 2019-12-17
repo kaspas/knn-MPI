@@ -1,1 +1,0 @@
-int validate(knnresult r,double *corpus,double *query,int n,int m,int d , int k);
